@@ -13,3 +13,4 @@ Benefits:
 
 This approach involves building a simple UI with Streamlit, retrieving data from the YouTube API, storing it in a MongoDB data lake, migrating it to a SQL data warehouse, querying the data warehouse with SQL, and displaying the data in the Streamlit app.
 
+The working of the project can be viewed on : https://www.linkedin.com/feed/update/urn:li:activity:7114966417472421888?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7114966417472421888%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&originTrackingId=7F4zJfFLRea6a9jv9uocXQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3B3RCKtCbeSx25MCrmdCIxkw%3D%3D
